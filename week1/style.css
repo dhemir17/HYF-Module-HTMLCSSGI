@@ -1,0 +1,92 @@
+body {
+    background-image: url("https://i.ibb.co/fXKJLMz/layout1.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+   
+  }
+
+  .photo1 {
+    width: 300px;
+    position: absolute;
+    bottom: 270px;
+    left: 800px;
+  }
+
+  .menu1 {
+    position: absolute;
+    left: 250px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     }
+  
+  .lid {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  
+  }
+  li a:hover {
+    background-color:#3749d0;
+    border-radius: 5%;
+    color: white;
+}
+
+.hello {
+  position: absolute;
+  top: 250px;
+  left: 400px;
+  
+}
+
+.secimg {
+width: 400px;
+position: relative;
+top: 730px;
+left: 300px;
+border-radius: 5%;
+}
+
+.about {
+  position: absolute;
+  top: 730px;
+  left: 730px;
+  
+}
+
+.tit {
+  font-size: 30px;
+}
+
+.btn1 {
+  background-color: #3749d0;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5%;
+}
+
+.skils3 {
+  position: absolute;
+  top: 1300px;
+  left: 400px;
+}
+
+.res3 {
+  width: 250px;
+  border-radius: 10%;
+  padding: 0 10px 0 10px ;
+}
